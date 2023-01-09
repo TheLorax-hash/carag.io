@@ -1,0 +1,106 @@
+body{
+background-color: #000000;
+
+}
+
+#p1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    margin-left: 50px;
+    margin: 0px ; 
+    padding: 0px;
+    background: #8415CF;
+    background: linear-gradient( #8415CF 33%, #CF4FC2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#p2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    background: #8415CF;
+    background: linear-gradient( #8415CF 33%, #CF4FC2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#p3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    margin: 0px ; 
+    padding: 0px;
+    background: #8415CF;
+    background: linear-gradient( #8415CF 33%, #CF4FC2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#p4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    background: #8415CF;
+    background: linear-gradient( #8415CF 33%, #CF4FC2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#p5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-left: 170px;
+    background: #8415CF;
+    background: linear-gradient( #8415CF 33%, #CF4FC2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#p6{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-left: 170px;
+    background: #8415CF;
+    background: linear-gradient( #8415CF 33%, #CF4FC2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#p7{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-left: 170px;
+    background: #8415CF;
+    background: linear-gradient( #8415CF 33%, #CF4FC2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.navi{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background: linear-gradient( #8415CF 33%, #CF4FC2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+   
+}
+
+nav ul li{
+    margin-left: 80px;
+    margin-right: 80px;
+   
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+nav ul li a{
+    color: azure;
+    text-decoration: none;
+    font-weight: bold;
+}
